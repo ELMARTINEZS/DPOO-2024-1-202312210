@@ -1,0 +1,13 @@
+tipo:DIESEL:60000:250.0
+tipo:PREMIUM:80000:200.0
+tipo:NORMAL:40000:350.0
+tipo:ECONOMICO:20000:400.0
+surtidor:Martin:DIESEL:0.0:PREMIUM:0.0:NORMAL:0.0:ECONOMICO:0.0
+surtidor:Alejandro:DIESEL:0.0:PREMIUM:0.0:NORMAL:0.0:ECONOMICO:0.0
+surtidor:Alejandro:DIESEL:0.0:PREMIUM:0.0:NORMAL:0.0:ECONOMICO:0.0
+surtidor:Daniel:DIESEL:0.0:PREMIUM:0.0:NORMAL:0.0:ECONOMICO:0.0
+empleado:Camilo:0
+empleado:Alejandro:0
+empleado:Luis Santiago:0
+empleado:Martin:0
+empleado:Daniel:0
